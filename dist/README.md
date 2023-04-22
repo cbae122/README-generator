@@ -1,11 +1,11 @@
   # README generator
 
+  ![](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)
+
   ## Description
   
-  It will help create a template perfect README based on the users answers.
+  App will help users create a README file for their APP.
   
-  ![](https://img.shields.io/badge/license-MIT%20License-blue.svg)
-
   ## Table of Contents (Optional)
   
   - [Installation](#installation)
@@ -25,17 +25,17 @@
 
   ## Usage
 
-  Anyone who needs to create a README.
+  Anyone who needs to create a README for their app.
 
   ## License
        
-        Copyright @ MIT License. All rights reserved.
+        Copyright @ GNU AGPLv3. All rights reserved.
 
-        Licensed under the MIT License license.
+        Licensed under the GNU AGPLv3 license.
 
   ## Credits
   
-  Chris & my instructors.
+  Me and my instructor and TA. They helped guide me in the right direction to create this.
 
   ## Tests
 
