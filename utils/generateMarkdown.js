@@ -38,11 +38,12 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `  # ${data.title}
 
-
   ## Description
   
   ${data.description}
   
+  ${renderLicenseBadge(data.license)}
+
   ## Table of Contents (Optional)
   
   - [Installation](#installation)
@@ -65,7 +66,6 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ${renderLicenseSection(data.license)}
-  ${renderLicenseBadge(data.license)}
 
   ## Credits
   

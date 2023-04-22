@@ -1,10 +1,11 @@
   # README generator
 
-
   ## Description
   
-  It was designed to generate a perfect README file based on the users answers and choices.
+  It will help create a template perfect README based on the users answers.
   
+  ![](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+
   ## Table of Contents (Optional)
   
   - [Installation](#installation)
@@ -24,18 +25,17 @@
 
   ## Usage
 
-  Anyone who needs to generate a README file for their app.
+  Anyone who needs to create a README.
 
   ## License
        
         Copyright @ MIT License. All rights reserved.
 
         Licensed under the MIT License license.
-  ![](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Credits
   
-  Chris, BOOTCAMP instructors.
+  Chris & my instructors.
 
   ## Tests
 
