@@ -40,7 +40,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'Who should you use this repo?'
+        message: 'Who should use this repo?'
     },
     {
         type: 'list',
@@ -51,7 +51,7 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'Who help contribute to this repo?'
+        message: 'Who helped contribute to this repo?'
     },
     {
         type: 'input',
