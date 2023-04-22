@@ -1,9 +1,9 @@
-  # Heather locator
+  # README generator
 
 
   ## Description
   
-  It will help track Heather
+  It was designed to generate a perfect README file based on the users answers and choices.
   
   ## Table of Contents (Optional)
   
@@ -24,18 +24,18 @@
 
   ## Usage
 
-  People who would like to find Heather
+  Anyone who needs to generate a README file for their app.
 
   ## License
        
-        Copyright @ GNU AGPLv3. All rights reserved.
+        Copyright @ MIT License. All rights reserved.
 
-        Licensed under the GNU AGPLv3 license.
-  ![](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)
+        Licensed under the MIT License license.
+  ![](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Credits
   
-  Chris
+  Chris, BOOTCAMP instructors.
 
   ## Tests
 
