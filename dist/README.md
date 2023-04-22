@@ -1,9 +1,9 @@
-  # Looking for Heather
+  # Heather locator
 
 
   ## Description
   
-  It will find Heather
+  It will help track Heather
   
   ## Table of Contents (Optional)
   
@@ -24,11 +24,14 @@
 
   ## Usage
 
-  People who want to find Heather
+  People who would like to find Heather
 
   ## License
-  ![](https://img.shields.io/badge/license-Mozilla%20Public%20License%202.0-blue.svg)
-  Mozilla Public License 2.0
+       
+        Copyright @ GNU AGPLv3. All rights reserved.
+
+        Licensed under the GNU AGPLv3 license.
+  ![](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)
 
   ## Credits
   
