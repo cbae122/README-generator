@@ -1,9 +1,9 @@
-# heather finder
-  ![](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)
+  # Looking for Heather
+
 
   ## Description
   
-  it will help find heather
+  It will find Heather
   
   ## Table of Contents (Optional)
   
@@ -24,22 +24,22 @@
 
   ## Usage
 
-  people who want to find heather
+  People who want to find Heather
 
   ## License
-
-  Apache License 2.0
+  ![](https://img.shields.io/badge/license-Mozilla%20Public%20License%202.0-blue.svg)
+  Mozilla Public License 2.0
 
   ## Credits
   
-  chris
+  Chris
 
   ## Tests
 
   To perform a test, run the commands below:
 
   ```
-  npm test
+  node index.js
   ```
 
   ## Questions
