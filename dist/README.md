@@ -1,8 +1,9 @@
 # heather finder
+  ![](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)
 
   ## Description
   
-  it will find heather
+  it will help find heather
   
   ## Table of Contents (Optional)
   
@@ -23,11 +24,11 @@
 
   ## Usage
 
-  someone who wants to find heather
+  people who want to find heather
 
   ## License
 
-  MIT License
+  Apache License 2.0
 
   ## Credits
   
@@ -35,10 +36,16 @@
 
   ## Tests
 
+  To perform a test, run the commands below:
+
+  ```
   npm test
+  ```
 
   ## Questions
 
-  cbae122
-  chrisbae13@hotmail.com
+  For any additional questions, please reach out to the email provided below.
+
+  - GitHub: [cbae122](https://github.com/cbae122)
+  - Email: chrisbae13@hotmail.com
 
